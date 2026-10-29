@@ -1,0 +1,12 @@
+{
+  "name": "global-quiz-api-2026",
+  "version": "1.0.0",
+  "description": "API global de estudos e quizzes com IA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
